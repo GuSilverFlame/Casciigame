@@ -1,4 +1,4 @@
-# Casciigame(PROJECT ABANDONED UNTIL FURTHER NOTICE)
+# Casciigame
 ## Description ##
 little ascii rpg made in c
 
